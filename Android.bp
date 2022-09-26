@@ -251,12 +251,6 @@ dex_import {
 }
 
 dex_import {
-	name: "vendor.qti.hardware.soter-V1.0-java",
-	owner: "fxtec",
-	jars: ["proprietary/framework/vendor.qti.hardware.soter-V1.0-java.jar"],
-}
-
-dex_import {
 	name: "QtiTelephonyServicelibrary",
 	owner: "fxtec",
 	jars: ["proprietary/system_ext/framework/QtiTelephonyServicelibrary.jar"],
